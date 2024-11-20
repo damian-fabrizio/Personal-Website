@@ -1,12 +1,13 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import {motion} from "framer-motion"
 import { IoMdDownload } from "react-icons/io";
-import resume from "../web/Resume-Damian-Fabrizio.pdf";
+import resume from "../web/FinalResumeDamianFabrizio.pdf";
 
 const Navbar = () => {
   return (
     <nav className= "flex items-center justify-between py-3 p-24 border-0">
-    <motion.a href={resume} download="Resume-Damian-Fabrizio" 
+    <motion.a href={resume} download="Resume-Damian-Fabrizio"  
+    target="_blank" rel="noopener noreferrer"
     whileInView={{opacity:1, x:0}}
     initial={{opacity:0, x: -100}}
     transition={{duration: 0.75}}
