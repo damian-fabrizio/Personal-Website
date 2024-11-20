@@ -1,7 +1,7 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import {motion} from "framer-motion"
 import { IoMdDownload } from "react-icons/io";
-import resume from "../web/ResumeFinal.pdf";
+import resume from "../web/FinalResumeDF.pdf";
 
 const Navbar = () => {
   return (

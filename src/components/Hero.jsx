@@ -20,7 +20,7 @@ const Hero = () => {
                     whileInView={{opacity:1, x:0}}
                     initial={{opacity:0, x: -100}}
                     transition={{duration: 2}}
-                    className="my-2 max-w-2xl py-6 text-xl font-light tracking-tighter text-center">I am a web developer proficient in Javascript, React, HTML, CSS, and Tailwind, with an analytical background in R. My focus is creating responsive designs that enhance the user experience. I also have skills integrating APIs into programs to create technical but enjoyable user interfaces. Check out my personal projects below</motion.p>
+                    className="my-2 max-w-2xl py-6 text-xl font-light tracking-tighter text-center">I am a web developer proficient in Javascript, React, JSX, CSS, and Tailwind, with an analytical background in R. My focus is creating responsive designs that enhance the user experience. I also have skills integrating APIs into programs to create technical but enjoyable user interfaces. Check out my personal projects below</motion.p>
                 </div>
             </div>
             
