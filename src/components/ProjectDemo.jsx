@@ -134,7 +134,7 @@ const ProjectDemo = () => {
                     ReactJS
                     </span>
                     <span className="mb-8 mr-2 rounded bg-neutral-800 px-2 py-1 text-xs font-medium">
-                    HTML
+                    JSX
                     </span>
                     <span className="mb-8 mr-2 rounded bg-neutral-800 px-2 py-1 text-xs font-medium">
                     TailwindCSS
@@ -167,7 +167,7 @@ const ProjectDemo = () => {
                     ReactJS
                     </span>
                     <span className="mb-8 mr-2 rounded bg-neutral-800 px-2 py-1 text-xs font-medium">
-                    HTML
+                    JSX
                     </span>
                     <span className="mb-8 mr-2 rounded bg-neutral-800 px-2 py-1 text-xs font-medium">
                     TailwindCSS
