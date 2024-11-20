@@ -12,7 +12,7 @@ const Navbar = () => {
     initial={{opacity:0, x: -100}}
     transition={{duration: 0.75}}
     // whileHover={{background: "#828282"}}
-    className="rounded-full bg-white px-3 py-2 text-black text-sm hover:bg-gray-300">
+    className="rounded-full bg-white px-3 py-2  text-black text-sm hover:bg-gray-300">
         <div className="flex items-center">
             <span >Download Resume</span>
             <IoMdDownload className="ml-1 text-md"/>
