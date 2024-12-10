@@ -143,7 +143,7 @@ const ProjectDemo = () => {
                      {/* github link below */}
                      <motion.a 
                      whileHover={{ background: "#a3a3a3"}}
-                     href="https://moon-phase-mutsqpg98-damian-fabrizios-projects.vercel.app" target="_blank" rel="noopener noreferrer" className="rounded-full bg-white px-4 py-2 text-black text-sm">
+                     href="https://moon-phase-six.vercel.app/" target="_blank" rel="noopener noreferrer" className="rounded-full bg-white px-4 py-2 text-black text-sm">
                          <div className="flex">
                              <span>Demo</span>
                              <MdArrowOutward className="ml-0.5 text-lg"/>
